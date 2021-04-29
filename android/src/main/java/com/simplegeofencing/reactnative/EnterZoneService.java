@@ -1,4 +1,4 @@
-ackage com.simplegeofencing.reactnative;
+package com.simplegeofencing.reactnative;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
